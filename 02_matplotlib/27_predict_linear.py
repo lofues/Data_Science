@@ -1,10 +1,12 @@
 """
     线性预测 ax1 + bx2 + cx3 = d
 """
-import numpy as np
-import matplotlib.pyplot as mp
 import datetime
+
 import matplotlib.dates as md
+import matplotlib.pyplot as mp
+import numpy as np
+
 
 def dmy2ymd(dmy):
     dmy = str(dmy, encoding='utf-8')
