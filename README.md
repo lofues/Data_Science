@@ -1,2 +1,2 @@
-# Data_analyse
-data analyse in python
+# Data_Science
+Data Science in python
